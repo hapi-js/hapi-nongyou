@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "@hapi/inert": "^7.0.0"
+  },
+  "name": "hapi-nongyou",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapi-js/hapi-nongyou.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hapi-js/hapi-nongyou/issues"
+  },
+  "homepage": "https://github.com/hapi-js/hapi-nongyou#readme"
+}
